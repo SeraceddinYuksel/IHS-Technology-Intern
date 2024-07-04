@@ -1,2 +1,2 @@
 # IHS-Technology-Intern
-What did ı do while ı am working at IHS Technology
+This series of files talks about the work I did while working at IHS Technology.
